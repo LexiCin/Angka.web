@@ -136,6 +136,9 @@ submitBtn.addEventListener('click', () => {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Demo
+You can try the live demo of the project here: [Live Demo Link](https://lexicin.github.io/Angka.web.com/)
+
  ## Developer
 ------
 **By : LexiCin**
