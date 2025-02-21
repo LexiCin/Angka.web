@@ -138,5 +138,5 @@ submitBtn.addEventListener('click', () => {
 
  ## Developer
 ------
-Dibuat Oleh LexiCin
+**By : LexiCin**
 
