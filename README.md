@@ -140,7 +140,7 @@ submitBtn.addEventListener('click', () => {
 You can try the live demo of the project here: [Live Demo Link](https://lexicin.github.io/Angka.web/)
 
 ## Join Discord Kami
-[![Join  Discord](https://img.shields.io/badge/Join%20our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s3A3trH5v8)
+[![Join Discord](https://img.shields.io/badge/Join%20our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s3A3trH5v8)
 
  ## Developer
 ------
