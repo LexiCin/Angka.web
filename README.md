@@ -137,8 +137,10 @@ submitBtn.addEventListener('click', () => {
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Demo
-You can try the live demo of the project here: [Live Demo Link](https://lexicin.github.io/Angka.web.com/)
+You can try the live demo of the project here: [Live Demo Link](https://lexicin.github.io/Angka.web/)
 
+## Join Discord Kami
+Join: [Discord](https://discord.gg/s3A3trH5v8)
  ## Developer
 ------
 **By : LexiCin**
